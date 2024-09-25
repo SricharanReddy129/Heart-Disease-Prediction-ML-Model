@@ -10,7 +10,7 @@
   4. Hyperparameter tuning
   5. Evaluation
 
-- I have updated the project into an webapplication, using Django framrwork.
+- I have updated the project into an webapplication, using Django framework.
 - 1. I have dveloped a single page dynamic webpage using HTML5, CSS and Bootstrap.
   2. Then integrated the frontend and predictor (previously developed ML model) using Django features.
   3. To integrate the Ml model, instead of connecting to entire Python code, I have saved my best model using Jobli as '.pkl' file.
